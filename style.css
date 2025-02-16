@@ -1,0 +1,40 @@
+.container-my {
+    padding-top: 85px;
+
+}
+
+.row {
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.custom-brand {
+    color: rgb(251, 255, 0) !important;
+    font-style: italic;
+    text-align: center;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.navbar .container-fluid {
+    justify-content: center;
+    background-color: rgb(0, 0, 0);
+}
+
+.navbar-toggler {
+    background-color: white;
+}
+
+.offcanvas-header {
+    background-color: rgb(75, 75, 255);
+    color: white;
+}
+
+.btn-close {
+    filter: invert(1);
+}
+
+.cart-item {
+    background-color: rgba(214, 212, 212, 0.436);
+}
